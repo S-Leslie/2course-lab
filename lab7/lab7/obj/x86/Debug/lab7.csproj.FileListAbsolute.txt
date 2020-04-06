@@ -1,0 +1,18 @@
+C:\Users\Лида\Desktop\ЯП лаб\lab7\lab7\obj\x86\Debug\lab7.Form1.resources
+C:\Users\Лида\Desktop\ЯП лаб\lab7\lab7\obj\x86\Debug\lab7.Properties.Resources.resources
+C:\Users\Лида\Desktop\ЯП лаб\lab7\lab7\obj\x86\Debug\lab7.csproj.GenerateResource.Cache
+C:\Users\Лида\Desktop\ЯП лаб\lab7\lab7\bin\Debug\lab7.exe
+C:\Users\Лида\Desktop\ЯП лаб\lab7\lab7\bin\Debug\lab7.pdb
+C:\Users\Лида\Desktop\ЯП лаб\lab7\lab7\obj\x86\Debug\lab7.exe
+C:\Users\Лида\Desktop\ЯП лаб\lab7\lab7\obj\x86\Debug\lab7.pdb
+C:\Users\Лида\Desktop\ЯП лаб\lab7\lab7\obj\x86\Debug\lab7.Form7.resources
+C:\Users\Лида\Desktop\ЯП лаб\lab7\lab7\obj\x86\Debug\lab7.csprojResolveAssemblyReference.cache
+C:\Users\Лида\Desktop\ЯП лаб\lab7\lab7\obj\x86\Debug\lab7.Form8.resources
+C:\Users\Лида\Desktop\ЯП лаб\lab7\lab7\bin\Debug\Магазин.mdb
+C:\Users\Лида\Desktop\ЯП лаб\lab7\lab7\bin\Debug\lab7.exe.config
+C:\Users\Лида\Desktop\ЯП лаб\lab7\lab7\obj\x86\Debug\lab7.Form9.resources
+C:\Users\Лида\Desktop\ЯП лаб\lab7\lab7\obj\x86\Debug\lab7.Form91.resources
+C:\Users\Лида\Desktop\ЯП лаб\lab7\lab7\obj\x86\Debug\lab7.Form92.resources
+C:\Users\мид\Desktop\lab7\lab7\bin\Debug\lab7.exe.config
+C:\Users\мид\Desktop\lab7\lab7\obj\x86\Debug\lab7.exe
+C:\Users\мид\Desktop\lab7\lab7\obj\x86\Debug\lab7.pdb
